@@ -35,7 +35,6 @@ Each note here is a **seed of thought** — a discovery, reflection, or experime
 </div>
 
 </div>
----
 
  <div style="
   display: flex;
