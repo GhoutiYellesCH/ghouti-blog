@@ -35,6 +35,7 @@ Each note here is a **seed of thought** — a discovery, reflection, or experime
 </div>
 
 </div>
+## 💼 My Portfolio 
 
  <div style="
   display: flex;
@@ -49,8 +50,7 @@ Each note here is a **seed of thought** — a discovery, reflection, or experime
 ">
 
   <div style="flex: 1 1 100px; min-width: 80px;">
-    <h2 style="margin-bottom: 0.5rem;">💼 My Portfolio</h2>
-    <p style="margin-bottom: 1rem; color: var(--darkgray);">
+    <p style="margin-left: 1rem; color: var(--darkgray);">
       Explore my latest projects, systems, and design work — built with passion and precision.
     </p>
     <a 
