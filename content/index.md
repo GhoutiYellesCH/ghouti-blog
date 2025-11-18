@@ -35,6 +35,17 @@ Each note here is a **seed of thought** — a discovery, reflection, or experime
 </div>
 
 </div>
+
+### 💭 Philosophy
+
+Over the past three years, I have refined a highly efficient approach to learning, thinking, and knowledge management, grounded in both personal experimentation and proven methodologies. I leverage Tiago Forte’s _Building a Second Brain_ and the PARA framework—Projects, Areas, Resources, Archives—to externalize and organize critical information, keeping my cognitive focus on high-impact tasks.
+
+This is complemented by the Zettelkasten method and tools like Obsidian, which create an interlinked, evolving knowledge system that fosters insight and connection between ideas. My approach emphasizes free learning, open knowledge, open-source tools, and strict data privacy. I prioritize systems that allow community-driven collaboration, automated correction of information, and clear, iterative paths for refinement.
+
+To stay at the forefront of innovation, I make extensive use of RSS feeds to track the latest research papers, posts, and insights from leading creators and thought leaders. This ensures a constant flow of relevant, high-quality information while allowing me to curate, synthesize, and integrate knowledge efficiently.
+
+By combining structured personal knowledge management with open, collaborative, and up-to-date systems, I create a learning ecosystem that maximizes growth, preserves privacy, and ensures that knowledge remains actionable and continuously evolving.
+
 ## 💼 My Portfolio 
 
  <div style="
@@ -108,8 +119,8 @@ You’re welcome to explore, remix, or get inspired by anything you find here.
 ### 🧾 Recent Seeds
 Use Quartz’s built-in graph or tag view to explore my latest notes — or jump into a topic below:
 
-- [[AI Systems]]
-- [[Engineering Thinking]]
+- [[free code camp content map]]
+- [[Unified - HackTheBox Write-Up]]
 - [[Philosophy of Learning]]
 - [[Project Archives]]
 
